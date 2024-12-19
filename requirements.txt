@@ -1,0 +1,10 @@
+torch==2.5.1
+numpy==1.26.4
+pillow==11.0.0
+matplotlib==3.8.4
+torchvision==0.20.1
+tqdm==4.66.4
+segmentation-models-pytorch==0.3.4
+transformers==4.45.2
+scikit-learn==1.4.2
+linformer==0.2.3
